@@ -1,0 +1,24 @@
+{
+  "name": "nextcorp.co.th",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "server": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nx-apps/nextcorp.co.th.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nx-apps/nextcorp.co.th/issues"
+  },
+  "homepage": "https://github.com/nx-apps/nextcorp.co.th#readme",
+  "dependencies": {
+    "nodemon": "^1.12.1",
+    "prpl-server": "^0.11.0"
+  }
+}
